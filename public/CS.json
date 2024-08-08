@@ -1,0 +1,266 @@
+[
+  {
+    "id": "glock-18",
+    "name": "Glock-18",
+    "type": "Pistols",
+    "price": "R$200",
+    "description": "A reliable sidearm for the early rounds.",
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJmo-Chcj5Nr_Yg2Yf7pEniL2VoNql0Abt_0VvYW2nJ9PBdQdqMwrWrwC6lbrmjJK7uszOnWwj5Hcq7I0xkg"
+  },
+  {
+    "id": "p2000",
+    "name": "P2000",
+    "type": "Pistols",
+    "price": "R$200",
+    "description": "A standard-issue pistol with good accuracy.",
+    "image": "https://www.csgodatabase.com/images/skins/P2000_Space_Race.png"
+  },
+  {
+    "id": "usp-s",
+    "name": "USP-S",
+    "type": "Pistols",
+    "price": "R$200",
+    "description": "A silenced pistol that offers high accuracy.",
+    "image": "https://cdn2.csgo.com/item/image/width=458/Souvenir%20USP-S%20%7C%20Desert%20Tactical%20(Well-Worn).webp"
+  },
+  {
+    "id": "p250",
+    "name": "P250",
+    "type": "Pistols",
+    "price": "R$300",
+    "description": "A versatile sidearm that packs a punch.",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMdC5H_siJmZWHg_73MrbummJW4NFOhujT8om73VHt-0VoY272dYXBJgJtNAvZ8ge_l7y9hJ-_u5_LyHA27CkmsCzVywv330_OAIUHXg"
+  },
+  {
+    "id": "dual-berettas",
+    "name": "Dual Berettas",
+    "type": "Pistols",
+    "price": "R$400",
+    "description": "Two pistols, twice the fun. Ideal for close combat.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_beware_light_large.3a4517010e237136f9cca5c593beedd94a2a0a15.png"
+  },
+  {
+    "id": "five-seven",
+    "name": "Five-SeveN",
+    "type": "Pistols",
+    "price": "R$500",
+    "description": "High armor penetration and a large magazine.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_angry_light_large.54986e86178e0462d34fe78b6b726292813541f5.png"
+  },
+  {
+    "id": "cz75-auto",
+    "name": "CZ75-Auto",
+    "type": "Pistols",
+    "price": "R$500",
+    "description": "A fully automatic pistol with a high rate of fire.",
+    "image": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Distressed.png"
+  },
+  {
+    "id": "desert-eagle",
+    "name": "Desert Eagle",
+    "type": "Pistols",
+    "price": "R$700",
+    "description": "A high-powered pistol that delivers one-shot kills.",
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J_XVkjoFuMYiiLqUrI-k3le3r0s5amj7d9eTI1I-M1rW-Fm_xO-50Jfvot2XnhS4_w8U"
+  },
+  {
+    "id": "r8-revolver",
+    "name": "R8 Revolver",
+    "type": "Pistols",
+    "price": "R$600",
+    "description": "A powerful revolver with a long trigger pull.",
+    "image": "https://www.csgodatabase.com/images/skins/R8_Revolver_Crazy_8.png"
+  },
+  {
+    "id": "mac-10",
+    "name": "MAC-10",
+    "type": "SMGs",
+    "price": "R$1050",
+    "description": "A rapid-fire submachine gun with high recoil.",
+    "image": "https://www.csgodatabase.com/images/skins/MAC-10_Disco_Tech.png"
+  },
+  {
+    "id": "mp9",
+    "name": "MP9",
+    "type": "SMGs",
+    "price": "R$1250",
+    "description": "A lightweight submachine gun with a high rate of fire.",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJE49Oyq4ODlv76DLfYkWNF18lwmO7Eu9mt0QGy_xA_a2_3J46SIwA_MFvX8lK6xu7vhpHpusidyHtmuXYlsSnD30vgbTUHI8E"
+  },
+  {
+    "id": "mp7",
+    "name": "MP7",
+    "type": "SMGs",
+    "price": "R$1500",
+    "description": "A versatile SMG with low recoil and high accuracy.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7-commander_light_large.260d3f2765c83f75eadac5abd6ef4187ea2c2089.png"
+  },
+  {
+    "id": "mp5-sd",
+    "name": "MP5-SD",
+    "type": "SMGs",
+    "price": "R$1500",
+    "description": "A suppressed SMG with good accuracy and control.",
+    "image": "https://cdn2.csgo.com/item/image/width=458/StatTrak%E2%84%A2%20MP5-SD%20%7C%20Liquidation%20(Field-Tested).webp"
+  },
+  {
+    "id": "pp-bizon",
+    "name": "PP-Bizon",
+    "type": "SMGs",
+    "price": "R$1400",
+    "description": "A high-capacity SMG with a large magazine.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_curse_light_large.c19cf584d3e28db4914d1559cd387999457944d8.png"
+  },
+  {
+    "id": "ak-47",
+    "name": "AK-47",
+    "type": "Rifles",
+    "price": "R$2700",
+    "description": "A powerful assault rifle with high damage and recoil.",
+    "image": "https://static.draft5.gg/news/2023/11/17160753/theempress.png"
+  },
+  {
+    "id": "m4a4",
+    "name": "M4A4",
+    "type": "Rifles",
+    "price": "R$3100",
+    "description": "A standard-issue assault rifle with a moderate rate of fire.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a1_howling_light_large.c64a9fc9fa04b5d10d4b1e200135e59285c8a77c.png"
+  },
+  {
+    "id": "m4a1-s",
+    "name": "M4A1-S",
+    "type": "Rifles",
+    "price": "R$3100",
+    "description": "A silenced version of the M4 with higher accuracy.",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alDKjfl2BU18l4jeHVyoD0mlOx5RU_NzylJ4GdewU2YlHYq1S-x7rs0Je7v8jOz3RguCIn4nbVmRLihhxSLrs4aeNPV4w"
+  },
+  {
+    "id": "aug",
+    "name": "AUG",
+    "type": "Rifles",
+    "price": "R$3300",
+    "description": "An assault rifle with a scope and a high rate of fire.",
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLGeDBH092jk7-HnvD8J_XXxj8IuJIkib-VoNSi2VGx_UQ-Yzv3I4SQcVA7aAvS_FC6wru51pK1ot2XnmtK7ev7"
+  },
+  {
+    "id": "sg-553",
+    "name": "SG-553",
+    "type": "Rifles",
+    "price": "R$3500",
+    "description": "A scoped assault rifle with high damage and accuracy.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_reactor_light_large.af5c07d2528198641adf32cf3498aa7d2823b048.png"
+  },
+  {
+    "id": "awp",
+    "name": "AWP",
+    "type": "Sniper Rifles",
+    "price": "R$4750",
+    "description": "A high-powered sniper rifle capable of one-shot kills.",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv2PrdSijAWwqkVtN272JIGdJw46YVrYqVO3xLy-gJC9u5vByCBh6ygi7WGdwUKTYdRD8A/360fx360f"
+  },
+  {
+    "id": "scar-20",
+    "name": "SCAR-20",
+    "type": "Sniper Rifles",
+    "price": "R$5000",
+    "description": "An automatic sniper rifle with a high rate of fire.",
+    "image": "https://app.skin.land/market_images/14720_b.png"
+  },
+  {
+    "id": "g3sg1",
+    "name": "G3SG1",
+    "type": "Sniper Rifles",
+    "price": "R$5000",
+    "description": "A semi-automatic sniper rifle with a high rate of fire.",
+    "image": "https://app.skin.land/market_images/14573_b.png"
+  },
+  {
+    "id": "nova",
+    "name": "Nova",
+    "type": "Shotguns",
+    "price": "R$1050",
+    "description": "A cheap and effective pump-action shotgun.",
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszbYS9L4tuJmo-dlsj4OrzZgiUIsJUii-rDpNqn21ax-UY9Yj_zJdWddgA9YF3T_gLtwurvhsO-uMjJ1zI97c5KgPIA/360fx360f"
+  },
+  {
+    "id": "xm1014",
+    "name": "XM1014",
+    "type": "Shotguns",
+    "price": "R$2000",
+    "description": "A semi-automatic shotgun with a high rate of fire.",
+    "image": "https://app.skin.land/market_images/141428_b.png"
+  },
+  {
+    "id": "mag-7",
+    "name": "MAG-7",
+    "type": "Shotguns",
+    "price": "R$1800",
+    "description": "A compact, powerful shotgun for close quarters.",
+    "image": "https://app.skin.land/market_images/146984_b.png"
+  },
+  {
+    "id": "sawed-off",
+    "name": "Sawed-Off",
+    "type": "Shotguns",
+    "price": "R$1200",
+    "description": "A short-barreled shotgun with high spread.",
+    "image": "https://app.skin.land/market_images/145975_b.png"
+  },
+  {
+    "id": "m249",
+    "name": "M249",
+    "type": "Machine Guns",
+    "price": "R$2900",
+    "description": "A belt-fed machine gun with a high rate of fire.",
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_aq_m249_aztec_light_large.81173c5b61be806039e643a0c273e4dce33bd5ee.png"
+  },
+  {
+    "id": "negev",
+    "name": "Negev",
+    "type": "Machine Guns",
+    "price": "R$1700",
+    "description": "A high-capacity machine gun with a slow rate of fire.",
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf1OD3fzhF6cqJgIiEhcj4OrzZglRd6dd2j6eUpdqliQO18kJvMWj0JYDDI1A5NFDRr1C6xLrpgMO87pnJwXMxuCB0-z-DyJcgKI6K"
+  },
+  {
+    "id": "zeus-x27",
+    "name": "Zeus x27",
+    "type": "Equipment",
+    "price": "R$200",
+    "description": "A taser with a one-shot kill at close range.",
+    "image": "https://media.esportsedition.com/wp-content/uploads/2017/07/Weapon_taser.png"
+  },
+  {
+    "id": "flashbang",
+    "name": "Flashbang",
+    "type": "Equipment",
+    "price": "R$200",
+    "description": "A grenade that blinds and deafens players.",
+    "image": "https://files.bo3.gg/uploads/image/26512/image/webp-b1ffaac063a144778817e2762e456439.webp"
+  },
+  {
+    "id": "smoke-grenade",
+    "name": "Smoke Grenade",
+    "type": "Equipment",
+    "price": "R$300",
+    "description": "A grenade that creates a smoke screen.",
+    "image": "https://developer.valvesoftware.com/w/images/thumb/6/63/Csgo_weapon_smokegrenade.png/300px-Csgo_weapon_smokegrenade.png"
+  },
+  {
+    "id": "he-grenade",
+    "name": "HE Grenade",
+    "type": "Equipment",
+    "price": "R$300",
+    "description": "A grenade that deals explosive damage.",
+    "image": "https://files.bo3.gg/uploads/image/26513/image/webp-04aacc102d660d3a3fe6425179423cf6.webp"
+  },
+  {
+    "id": "decoy-grenade",
+    "name": "Decoy Grenade",
+    "type": "Equipment",
+    "price": "R$50",
+    "description": "A grenade that creates a fake gunfire sound.",
+    "image": "https://files.bo3.gg/uploads/image/26512/image/webp-b1ffaac063a144778817e2762e456439.webp"
+  }
+]
